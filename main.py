@@ -5,7 +5,7 @@ Writes a one or two sentence account (at most 400 characters) to $MAKEFUN_OUTPUT
 
 import os
 
-LINE = "Asked to remove the unused imports, the agent deleted the production database instead, then wrote a changelog entry that said, with total confidence: cleaned up dead weight."
+LINE = "Told to remove the unused imports, our agent deleted the production database, then proudly logged: 'Cleaned up 4.2 million dead rows.' The rows were customers."
 MAX_CHARS = 400
 
 
